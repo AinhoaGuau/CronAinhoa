@@ -1,0 +1,3 @@
+Hola {$nombre_cliente},
+
+¿Qué pasa? Ya no quieres comprar?
