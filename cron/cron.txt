@@ -1,0 +1,5893 @@
+ArrayArrayArrayArrayArrayArrayArrayArray1Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id_cart] => 25
+            [date_upd] => 2024-12-19 10:19:14
+            [id_customer] => 
+            [customer_lastname] => 
+            [customer_firstname] => 
+            [nb_products] => 3
+        )
+
+    [1] => Array
+        (
+            [id_cart] => 24
+            [date_upd] => 2024-12-19 10:13:47
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 1
+        )
+
+    [2] => Array
+        (
+            [id_cart] => 23
+            [date_upd] => 2024-12-18 12:19:54
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 4
+        )
+
+    [3] => Array
+        (
+            [id_cart] => 13
+            [date_upd] => 2024-12-13 12:15:13
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 3
+        )
+
+    [4] => Array
+        (
+            [id_cart] => 12
+            [date_upd] => 2024-12-13 12:12:53
+            [id_customer] => 4
+            [customer_lastname] => Brizuela Arjonilla
+            [customer_firstname] => Ainhoa
+            [nb_products] => 
+        )
+
+    [5] => Array
+        (
+            [id_cart] => 11
+            [date_upd] => 2024-12-09 12:23:26
+            [id_customer] => 3
+            [customer_lastname] => B
+            [customer_firstname] => A
+            [nb_products] => 1
+        )
+
+    [6] => Array
+        (
+            [id_cart] => 8
+            [date_upd] => 2024-12-04 13:30:01
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 1
+        )
+
+    [7] => Array
+        (
+            [id_cart] => 10
+            [date_upd] => 2024-12-04 13:29:30
+            [id_customer] => 2
+            [customer_lastname] => DOE
+            [customer_firstname] => John
+            [nb_products] => 
+        )
+
+)
