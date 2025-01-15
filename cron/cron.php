@@ -55,17 +55,6 @@ class CarritoVacio
                 $mode_smtp = null, 
                 $template_path
             );
-          //  if ($mailEnviat) {
-                PrestaShopLogger::addLog(
-                    'Mail enviat', 
-                    1, 
-                    null, 
-                    'Mail', 
-                    3, 
-                    false, 
-                    1 
-                );
-            //}
             }
         }
     }
